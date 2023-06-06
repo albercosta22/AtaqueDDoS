@@ -1,14 +1,6 @@
 '''
 Disclaimer: Este script es solo para fines educativos. El autor no es responsable de ningun problema o daño causado por este script.
 
-
-coded by:
-  _         _      _  _     _               _    
- | |__     (_)    | || |   (_)    __ __    (_)   
- | '_ \    | |     \_, |   | |    \ V /    | |   
- |_.__/   _|_|_   _|__/   _|_|_   _\_/_   _|_|_  
-_|"""""|_|"""""|_| """"|_|"""""|_|"""""|_|"""""| 
-"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-' 
 '''
 
 
